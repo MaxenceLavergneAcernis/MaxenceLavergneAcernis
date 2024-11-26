@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Maxence Lavergne 
-⚙️ Data Engineer \
-\
-In love with Python🐍, AI🤖, Environment🌿 \
-I'm currently leaning MLOps to get the most out of AI model.
+ Data Engineer ⚙️ \
+ In love with Python🐍, AI🤖, Environment🌿 \
+ I'm currently leaning MLOps to get the most out of AI model.
 <!--
 **MaxenceLavergneAcernis/MaxenceLavergneAcernis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
