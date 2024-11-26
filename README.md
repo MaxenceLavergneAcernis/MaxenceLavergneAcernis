@@ -1,5 +1,8 @@
-## Hi there 👋
+## 👋 Hi, I’m Maxence Lavergne 
 
+I'm currently working as Data Engineer 
+I'm interested in Python🐍, AI🤖, Environment🌿
+I'm currently leaning MLOps to get the most out of AI model. 
 <!--
 **MaxenceLavergneAcernis/MaxenceLavergneAcernis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
